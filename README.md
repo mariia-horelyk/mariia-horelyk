@@ -1,5 +1,16 @@
-### Hallo, ich bin Mariia 👋
+### Hi, I'm Mariia 👋
 
-Ich befinde mich in der Umschulung zur **Fachinformatikerin Anwendungsentwicklung** beim bfz Schweinfurt und suche einen **Praktikumsplatz** (15.02.2027 – 06.08.2027).
+I'm retraining as a **Fachinformatikerin Anwendungsentwicklung** (Software Developer) 
+at bfz Schweinfurt, Germany.
 
-🔗 Mein vollständiges Profil: [mariia-horelyk.github.io](https://mariia-horelyk.github.io)
+**🔧 Current skills:**
+- HTML / CSS
+- Python
+- VS Code, GitHub, Linux (Ubuntu), Hyper-V Manager
+
+**📚 Planned from Autumn 2026:**
+- SQL, C#, PHP
+
+**🎯 Looking for an internship:** Feb 2027 – Aug 2027
+
+**🔗 My portfolio:** [mariia-horelyk.github.io](https://mariia-horelyk.github.io)
