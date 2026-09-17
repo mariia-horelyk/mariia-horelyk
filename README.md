@@ -15,6 +15,6 @@ Anwendungsentwicklung** at bfz Schweinfurt (02/2026 – 02/2029).
 **📚 Expanding from Autumn 2026:**
 - SQL, C#, PHP
 
-**🎯 Actively seeking an internship:** Feb 2027 – Aug 2027
+**🎯 Actively seeking an internship:** Feb 2027 – Aug 2027 and Apr 2028 – Feb 2029 (second phase almost a full year)
 
 **🔗 My portfolio:** [mariia-horelyk.github.io](https://mariia-horelyk.github.io/)
